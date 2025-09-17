@@ -30,4 +30,11 @@
 - Playing Piano: [Giao diện](https://tuankiet1774.github.io/Playing-Piano/)
 - Source code: [src](https://github.com/TuanKiet1774/Playing-Piano)
 
+---
+### 6. 📚Một số Extension hỗ trợ
+
+<img width="2000" height="703" alt="image" src="https://github.com/user-attachments/assets/8e176f13-adf0-4e89-9286-b0cd478be974" />
+
+
+
   
