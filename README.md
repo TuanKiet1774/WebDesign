@@ -16,7 +16,7 @@
 - Link truy cập: [Google Font](https://fonts.google.com/)
 
 ---
-### 3. ⚙️ Framework CSS
+### 3. ⚙️ Bootstrap
 - Sử dụng các gợi ý từ Bootstrap 5.3
 - Link truy câp: [Bootstrap 5.3](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
