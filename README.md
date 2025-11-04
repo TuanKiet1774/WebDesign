@@ -33,7 +33,12 @@
 ---
 ### 6. 📚Một số Extension hỗ trợ
 
-<img width="2000" height="703" alt="image" src="https://github.com/user-attachments/assets/8e176f13-adf0-4e89-9286-b0cd478be974" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/445b8365-1930-497e-b73b-952261ee37b0" />
+
+<img width="2000" height="819" alt="image" src="https://github.com/user-attachments/assets/083e264e-4718-4429-878d-66f7384603e3" />
+
+
+
 
 
 
